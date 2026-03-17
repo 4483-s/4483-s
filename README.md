@@ -1,4 +1,4 @@
-# RHCSA Certified Linux Admin
+# RHCSA Certified Linux Administrator
 
 I’m a Linux-focused sysadmin with hands-on experience in Red Hat and Arch based GNU/Linux systems.
 
@@ -6,7 +6,7 @@ Certified: Red Hat Certified System Administrator (RHCSA)
 
 Focus: Linux system administration, automation, troubleshooting
 
-Environment: Arch (daily driver), RHEL-based systems VM labs
+Environment: Arch (daily driver), RHEL-based VM labs
 
 ## What I Can Do
 
@@ -43,3 +43,7 @@ Advanced networking
 <p align="center">
   <img src="https://images.credly.com/size/340x340/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="RHCSA Badge" style="width:50%; height:auto;">
 </p>
+
+---
+
+[MY dot files](https://github.com/4483-s/dotfiles)
