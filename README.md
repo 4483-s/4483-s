@@ -40,4 +40,6 @@ Advanced networking
 
 RHCSA verification: https://www.credly.com/earner/earned/badge/fa60efb4-46a0-41ee-a83f-c6eb60a5aa84
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fa60efb4-46a0-41ee-a83f-c6eb60a5aa84" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<p align="center">
+  <img src="https://images.credly.com/size/340x340/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="RHCSA Badge" style="width:50%; height:auto;">
+</p>
